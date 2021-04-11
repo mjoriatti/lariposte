@@ -2,7 +2,7 @@
 
 textes proposés au journal https://www.lariposte.org/
 
-Ce travail est mise à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+Ce travail est mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
 
 Un résumé explicatif de cette licence est donné en français :
 
