@@ -35,7 +35,7 @@ Reste un troisième acteur pour payer la note : les ménages via la TVA, la TICP
 
 Au lieu de relance, il s’agit plus d’un plan de continuité dans les politiques ultra-capitalistes que nous connaissons depuis le début des années 80. La perspective de faire payer en même temps les baisses d’impôts des entreprises, les cadeaux fiscaux aux 0,1 % les plus aisés et la casse du service public au prolétariat, ce qui est inacceptable.
 
-Manuel Joriatti, PCF Nord (59)
+*Manuel Joriatti, PCF Nord (59)*
 
 [^1]: https://www.lepoint.fr/politique/les-oppositions-critiquent-un-plan-de-relance-trop-tardif-et-pas-assez-vert-03-09-2020-2390277_20.php
 
@@ -54,5 +54,3 @@ Manuel Joriatti, PCF Nord (59)
 [^8]: https://www.sudouest.fr/2020/04/05/hopital-de-nancy-tolle-apres-des-propos-du-directeur-de-l-ars-sur-des-fermetures-de-lits-7389454-10861.php
 
 [^9]: https://www.strategie.gouv.fr/evaluation/comite-devaluation-reformes-de-fiscalite-capital
-
-*Manuel Joriatti, PCF Nord (59)*
