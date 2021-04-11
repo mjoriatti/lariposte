@@ -5,4 +5,4 @@ Ce travail est mise à disposition selon les termes de la Licence Creative Commo
 
 Un résumé explicatif de cette licence est donnée en français :
 
-![https://creativecommons.org/licenses/by-sa/4.0/deed.fr](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![https://i.creativecommons.org/l/by-sa/4.0/88x31.png](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)
