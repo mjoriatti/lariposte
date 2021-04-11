@@ -1,14 +1,18 @@
+[//]: # (Title: Coronavirus : un révélateur des conséquences de l’abandon de l’hôpital et de l’industrie)  
+[//]: # (Author: Manuel Joriatti, La Riposte)  
+[//]: # (Date: 19 avril 2020)
+
 Coronavirus : un révélateur des conséquences de l’abandon de l’hôpital et de l’industrie
-=
+===
 
 ![](covid/fig0.png)
 
 Loin d’être un cas à part, le duo Macron-Philippe ne fait que prendre la suite d’une longue liste de dirigeants qui ont les uns après les autres diminué considérablement la couverture hospitalière du pays, tout en laissant le fleuron industriel sanitaire se délocaliser pour satisfaire la soif de profits des actionnaires. Derrière ces  équipes dirigeantes se cache un système capitaliste qui profite à une caste ultra minoritaire dans le pays et dont le pouvoir et la fortune tiennent à cet appareil d’état à sa solde et au capital qu’elle détient.
 
-Par Manuel Joriatti, PCF Nord (59)
+*Par Manuel Joriatti, PCF Nord (59)*
 
 La lente agonie de nos outils industriels
--
+---
 
 La pandémie due au coronavirus révèle les conséquences de la désindustrialisation : de nombreux sites industriels stratégiques majeurs en France sont fermés ou menacés de fermeture :
 - Famar à Lyon, dont l’issue du redressement judiciaire reste incertaine : la production maintenue n’a aucune commune mesure avec la diversité de sa production passée,
@@ -30,7 +34,7 @@ La reprise par les salariés-eux même de leur activité est souhaitable, mais p
 A toujours vouloir dégager un profit immédiat, la gestion capitaliste de l’économie court droit à sa prochaine crise. Réduisant comme peau de chagrin le peu d’industries restantes pour satisfaire nos besoins, même les plus élémentaires. Broyant les vies de familles entières lors de chaque délocalisation, lors de chaque fermeture, lors de chaque réforme budgétaire.
 
 La casse de notre outil de « Sécurité Sociale »
--
+---
 
 Le même constat est valable pour notre système de santé et plus globalement à l’ensemble de la fonction publique : à trop avoir réduit les financements et les postes d’agents (considérés uniquement comme des centres de coûts, et en ignorant les bénéfices plus qualitatifs pour la population), l’État en a fini par ignorer jusqu’aux recommandations des groupes d’experts qu’il a pourtant lui-même mandatés ).  Par exemple en 2011, immédiatement après l’épidémie de SRAS, l’État décide de ne pas renouveler le stock stratégique de masques, [reniant ses engagements pris en 2005 envers les salariés de Honeywell](https://www.politis.fr/articles/2020/04/comment-letat-a-flingue-lusine-qui-fabriquait-ses-masques-41639/) et provoquant ainsi son démantèlement. L’apparition du MERS n’y changera rien : c’est la pénurie de masques qui est ainsi organisée pour économiser quelques deniers. Télécharger ici l’édifiant rapport de la DGAFP datant de 2012 où à partir de la page 111 ces évolutions d’effectifs sont flagrantes.
 
@@ -64,7 +68,7 @@ Face à ce constat, une exigence, déjà forte, se renforce : que les moyens de 
 Pour répondre à la crise, et aux crises à venir, il nous faut donc extraire de l’économie marchande l’ensemble des activités essentielles regroupées dans la « Sécurité Sociale ». En attendant l’expropriation sans compensation des gros actionnaires, nous ne pouvons donc pas tolérer que les capitalistes continuent à s’exonérer de cotisations sociales et d’impôts, seuls moyens viables de financement des salaires des agents, de leurs outils de travail et de nos hôpitaux.
 
 Pour une alternative à « L’État d’urgence sanitaire » comme moyen de coercition
--
+---
 
 « L’urgence sanitaire » souhaitée par l’État n’est qu’[un euphémisme pour sauvegarder les intérêts de la classe capitaliste](https://www.lariposte.org/2020/04/etat-durgence-sanitaire-ou-la-sauvegarde-du-capitalisme/) contre nos propres intérêts.
 
