@@ -1,14 +1,14 @@
 Coronavirus : un révélateur des conséquences de l’abandon de l’hôpital et de l’industrie
 =
 
+![](covid/fig0.png)
+
 Loin d’être un cas à part, le duo Macron-Philippe ne fait que prendre la suite d’une longue liste de dirigeants qui ont les uns après les autres diminué considérablement la couverture hospitalière du pays, tout en laissant le fleuron industriel sanitaire se délocaliser pour satisfaire la soif de profits des actionnaires. Derrière ces  équipes dirigeantes se cache un système capitaliste qui profite à une caste ultra minoritaire dans le pays et dont le pouvoir et la fortune tiennent à cet appareil d’état à sa solde et au capital qu’elle détient.
 
 Par Manuel Joriatti, PCF Nord (59)
 
 La lente agonie de nos outils industriels
 -
-
-![](covid/fig0.png)
 
 La pandémie due au coronavirus révèle les conséquences de la désindustrialisation : de nombreux sites industriels stratégiques majeurs en France sont fermés ou menacés de fermeture :
 - Famar à Lyon, dont l’issue du redressement judiciaire reste incertaine : la production maintenue n’a aucune commune mesure avec la diversité de sa production passée,
@@ -17,6 +17,7 @@ La pandémie due au coronavirus révèle les conséquences de la désindustriali
 Il serait possible de continuer cette liste jusqu’à l’écœurement : la pénurie de nombreux biens est criante : médicaments, masques, gels hydroalcooliques, respirateurs…
 
 ![](covid/fig1.png)
+
 *Figure 1: Évolution de l’emploi salarié (données : INSEE) et de la part des richesses crée dans l’industrie (données : Banque Mondiale)*
 
 De nombreux syndicats CGT font le lien entre ces abandons et la stratégie menée par les capitalistes depuis de trop nombreuses années :
@@ -34,6 +35,7 @@ La casse de notre outil de « Sécurité Sociale »
 Le même constat est valable pour notre système de santé et plus globalement à l’ensemble de la fonction publique : à trop avoir réduit les financements et les postes d’agents (considérés uniquement comme des centres de coûts, et en ignorant les bénéfices plus qualitatifs pour la population), l’État en a fini par ignorer jusqu’aux recommandations des groupes d’experts qu’il a pourtant lui-même mandatés ).  Par exemple en 2011, immédiatement après l’épidémie de SRAS, l’État décide de ne pas renouveler le stock stratégique de masques, [reniant ses engagements pris en 2005 envers les salariés de Honeywell](https://www.politis.fr/articles/2020/04/comment-letat-a-flingue-lusine-qui-fabriquait-ses-masques-41639/) et provoquant ainsi son démantèlement. L’apparition du MERS n’y changera rien : c’est la pénurie de masques qui est ainsi organisée pour économiser quelques deniers. Télécharger ici l’édifiant rapport de la DGAFP datant de 2012 où à partir de la page 111 ces évolutions d’effectifs sont flagrantes.
 
 ![](covid/fig2.png)
+
 *Figure 2: Suppressions de postes de fonctionnaires – période de 2003 à 2011 (source : Les Echos)*
 
 Dans la fonction publique hospitalière particulièrement, les réformes engagées depuis les années 80 ne visent qu’un seul objectif : économiser toujours plus.
@@ -48,6 +50,7 @@ Dans la fonction publique hospitalière particulièrement, les réformes engagé
 [La réduction du nombre de lits en soins intensifs](https://data.oecd.org/healtheqt/hospital-beds.htm) relève de cette logique comptable mortifère : il ne reste plus aujourd’hui que 5 000 lits de soins intensifs pour 68 millions d’habitants et un besoin estimé (à l’heure où ces lignes sont écrites) [à 15 000 lits au minimum](https://www.humanite.fr/hopital-les-lits-de-reanimation-nerf-de-la-guerre-sanitaire-687201). Osons une comparaison à l’Allemagne et ses 25 000 lits pour 83 millions d’habitants. Une Allemagne pourtant très critiquée à gauche, et critiquable à juste titre pour ses choix d’austérité.
 
 ![](covid/fig3.png)
+
 *Figure 3: Évolution du nombre de lits depuis 1990 (données : OCDE)*
 
 Les manifestations des personnels soignants et le « plan d’urgence pour l’hôpital » n’y changeront rien : la Fédération Hospitalière de France évalue à 8,6 milliards d’euros les économies demandées entre 2005 et 2019 et plus de la moitié des établissements sont en difficulté financière.
