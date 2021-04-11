@@ -5,7 +5,7 @@
 Plan de relance : un nouvel élan pour l’avenir ?
 ===
 
-![](2020-10-30-ministere-finances-bercy.png)
+![](2020-10-30-plan-de-relance/ministere-finances-bercy.png)
 
 Alors que le Projet de Loi de Finances pour 2021 est attendu pour la fin décembre, et bien qu’il s’accompagne d’un plan de relance de 100 milliards d’euros sur 2 ans, on ne compte plus le nombre d’élus de tous bords qui se sont exprimés pour en contester les différents articles à l’occasion des débats à l’Assemblée.
 
@@ -51,8 +51,8 @@ Manuel Joriatti, PCF Nord (59)
 
 [^7]: https://www.capital.fr/economie-politique/thomas-piketty-critique-le-plan-de-relance-reclame-une-hausse-des-salaires-1379586
 
-[^8]https://www.sudouest.fr/2020/04/05/hopital-de-nancy-tolle-apres-des-propos-du-directeur-de-l-ars-sur-des-fermetures-de-lits-7389454-10861.php
+[^8]: https://www.sudouest.fr/2020/04/05/hopital-de-nancy-tolle-apres-des-propos-du-directeur-de-l-ars-sur-des-fermetures-de-lits-7389454-10861.php
 
-[^9]https://www.strategie.gouv.fr/evaluation/comite-devaluation-reformes-de-fiscalite-capital
+[^9]: https://www.strategie.gouv.fr/evaluation/comite-devaluation-reformes-de-fiscalite-capital
 
 *Manuel Joriatti, PCF Nord (59)*
