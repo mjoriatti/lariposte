@@ -8,4 +8,4 @@ theme: jekyll-theme-minimal
 plugins:
     - jekyll-sitemap
 
-exclude: ["template.md", "Gemfile"]
+exclude: ["template.md", "README.md"]
