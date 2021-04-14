@@ -11,4 +11,4 @@ theme: jekyll-theme-minimal
 plugins:
     - jekyll-sitemap
 
-exclude: ["README.md", "Gemfile"]
+exclude: ["template.md", "Gemfile"]
