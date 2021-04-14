@@ -2,7 +2,7 @@
 ---
 
 {% for post in site.posts %}
-<article>
+<div>
 <header>
 <h1>{{ post.title }}</h1>
 <p><time>{{ post.date | date_to_string }}</time></p>
@@ -13,5 +13,5 @@
 <footer markdown="1">
 [Read more...]({{ post.url }})
 </footer>
-</article>
+</div>
 {% endfor %}
