@@ -17,6 +17,8 @@ Pas assez vert pour les uns, une bombe à retardement pour les autres [^1], cens
 
 Au-delà des sondages, que contient le plan de relance ?
 
+<!--more-->
+
 Au total, ce sont 100 milliards d’euros qui seront mis sur la table sur les deux ans à venir, dont 40 via la Commission Européenne qui mutualise les dettes entre états européens pour la première fois. Trois priorités (écologie, compétitivité, cohésion), vingt thèmes (économie circulaire, mer, souveraineté technologique, culture, Ségur de la santé, …), soixante-huit mesures, 296 pages. Des chiffres faits pour impressionner, mais qui cachent un enjeu de répartition des richesses.
 
 500 millions sont proposés pour la rénovation énergétique des logements sociaux. En première lecture, cela ressemble à une bonne mesure : grâce à cette rénovation des ménages modestes pourront réduire leur consommation énergétique pour se chauffer. Rappelons-nous cependant que le budget du Ministère de la Cohésion des territoires a fondu de 18,3 milliards d’euros en 2018 à 15 milliards d’euros en 2020 par la baisse de loyers imposés aux organismes gérant ces logements [^3]. Loin d’annoncer un droit au logement décent, le plan de relance confirme la trajectoire d’économies sur ce poste ainsi que le mauvais état des logements sociaux. Le budget d’avant-crise étant déjà insuffisant pour entretenir les logements sociaux, le plan de relance renvoie donc aux calendes grecques le droit à un logement décent.
