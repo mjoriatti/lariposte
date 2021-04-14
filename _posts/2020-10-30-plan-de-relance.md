@@ -1,3 +1,7 @@
+---
+layout: post
+excerpt_separator: <!--more-->
+---
 [//]: # (Title: Plan de relance : un nouvel élan pour l’avenir ?)  
 [//]: # (Author: Manuel Joriatti, La Riposte)  
 [//]: # (Date: 30 octobre 2020)
