@@ -4,7 +4,7 @@ description: "Textes proposés à La Riposte"
 url: "http://mjoriatti.github.io/"
 repository: "lariposte"
 
-permalink: :year-:month-:day-:title:output_ext
+permalink: :categories/:year-:month-:day-:title:output_ext
 
 theme: jekyll-theme-minimal
 plugins:
