@@ -11,7 +11,7 @@
   {{ post.excerpt }}
 </div>
   <div markdown="1">
-    [Read more...]({{ post.url }})
+    [lire l'article...]({{ post.url }})
   </div>
 </div>
 {% endfor %}
