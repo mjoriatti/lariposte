@@ -13,8 +13,8 @@
 {{ post.excerpt }}
 </div>
 
-<div markdown="1">
-[lire l'article...]({{ post.url }})
+<div>
+  <a href="{{ post.url }}">lire l'article...</a>
 </div>
 
 </div>
