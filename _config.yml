@@ -1,10 +1,10 @@
 title: "Manuel Joriatti"
 description: "Textes proposés à La Riposte"
 
-url: "http://mjoriatti.github.io"
+url: "http://mjoriatti.github.io/lariposte/"
 repository: "lariposte"
 
-permalink: ./year-month-day-title.output_ext
+permalink: year-month-day-title.output_ext
 
 theme: jekyll-theme-minimal
 plugins:
