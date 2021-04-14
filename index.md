@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <a href="{{ post.url }}">lire l'article...</a>
+  <a href='{{ post.url }}'>lire l'article...</a>
 </div>
 
 </div>
