@@ -9,15 +9,15 @@ title: "Plan de relance : un nouvel élan pour l’avenir ?"
 Plan de relance : un nouvel élan pour l’avenir ?
 ===
 
-![](2020-10-30-plan-de-relance/ministere-finances-bercy.png)
+![](assets/2020-10-30-plan-de-relance/ministere-finances-bercy.png)
 
 Alors que le Projet de Loi de Finances pour 2021 est attendu pour la fin décembre, et bien qu’il s’accompagne d’un plan de relance de 100 milliards d’euros sur 2 ans, on ne compte plus le nombre d’élus de tous bords qui se sont exprimés pour en contester les différents articles à l’occasion des débats à l’Assemblée.
-
-<!--more-->
 
 Pas assez vert pour les uns, une bombe à retardement pour les autres [^1], censé préparer l’avenir d’après le gouvernement… Ce plan de relance semble agglomérer tout le spectre politique contre lui. Pourtant, un sondage [^2] pour Le Figaro et France Info indique que près de  71 % des répondants jugent que ce serait «un bon plan de relance».
 
 Au-delà des sondages, que contient le plan de relance ?
+
+<!--more-->
 
 Au total, ce sont 100 milliards d’euros qui seront mis sur la table sur les deux ans à venir, dont 40 via la Commission Européenne qui mutualise les dettes entre états européens pour la première fois. Trois priorités (écologie, compétitivité, cohésion), vingt thèmes (économie circulaire, mer, souveraineté technologique, culture, Ségur de la santé, …), soixante-huit mesures, 296 pages. Des chiffres faits pour impressionner, mais qui cachent un enjeu de répartition des richesses.
 
@@ -43,20 +43,20 @@ Au lieu de relance, il s’agit plus d’un plan de continuité dans les politiq
 
 *Manuel Joriatti, PCF Nord (59)*
 
-[^1]: https://www.lepoint.fr/politique/les-oppositions-critiquent-un-plan-de-relance-trop-tardif-et-pas-assez-vert-03-09-2020-2390277_20.php
+[^1]: [https://www.lepoint.fr/politique/les-oppositions-critiquent-un-plan-de-relance-trop-tardif-et-pas-assez-vert-03-09-2020-2390277_20.php]([https://www.lepoint.fr/politique/les-oppositions-critiquent-un-plan-de-relance-trop-tardif-et-pas-assez-vert-03-09-2020-2390277_20.php)
 
-[^2]: https://www.lefigaro.fr/politique/les-francais-approuvent-le-plan-de-relance-20200904
+[^2]: [https://www.lefigaro.fr/politique/les-francais-approuvent-le-plan-de-relance-20200904](https://www.lefigaro.fr/politique/les-francais-approuvent-le-plan-de-relance-20200904)
 
-[^3]: https://www.lepoint.fr/economie/les-organismes-hlm-choques-par-le-budget-2018-qui-detruit-le-logement-social-27-09-2017-2160331_28.php
+[^3]: [https://www.lepoint.fr/economie/les-organismes-hlm-choques-par-le-budget-2018-qui-detruit-le-logement-social-27-09-2017-2160331_28.php](https://www.lepoint.fr/economie/les-organismes-hlm-choques-par-le-budget-2018-qui-detruit-le-logement-social-27-09-2017-2160331_28.php)
 
-[^4]: https://www.youtube.com/watch?reload=9&v=-dk3NOEgX7o
+[^4]: [https://www.youtube.com/watch?reload=9&v=-dk3NOEgX7o](https://www.youtube.com/watch?reload=9&v=-dk3NOEgX7o)
 
-[^5]: https://dares.travail-emploi.gouv.fr/IMG/pdf/dares_tdb_marche-travail_crise-sanitaire_15_septembre_.pdf
+[^5]: [https://dares.travail-emploi.gouv.fr/IMG/pdf/dares_tdb_marche-travail_crise-sanitaire_15_septembre_.pdf](https://dares.travail-emploi.gouv.fr/IMG/pdf/dares_tdb_marche-travail_crise-sanitaire_15_septembre_.pdf)
 
-[^6]: https://www.lesechos.fr/economie-france/social/plan-de-relance-le-compte-ny-est-pas-pour-la-cgt-1242715
+[^6]: [https://www.lesechos.fr/economie-france/social/plan-de-relance-le-compte-ny-est-pas-pour-la-cgt-1242715](https://www.lesechos.fr/economie-france/social/plan-de-relance-le-compte-ny-est-pas-pour-la-cgt-1242715)
 
-[^7]: https://www.capital.fr/economie-politique/thomas-piketty-critique-le-plan-de-relance-reclame-une-hausse-des-salaires-1379586
+[^7]: [https://www.capital.fr/economie-politique/thomas-piketty-critique-le-plan-de-relance-reclame-une-hausse-des-salaires-1379586](https://www.capital.fr/economie-politique/thomas-piketty-critique-le-plan-de-relance-reclame-une-hausse-des-salaires-1379586)
 
-[^8]: https://www.sudouest.fr/2020/04/05/hopital-de-nancy-tolle-apres-des-propos-du-directeur-de-l-ars-sur-des-fermetures-de-lits-7389454-10861.php
+[^8]: [https://www.sudouest.fr/2020/04/05/hopital-de-nancy-tolle-apres-des-propos-du-directeur-de-l-ars-sur-des-fermetures-de-lits-7389454-10861.php](https://www.sudouest.fr/2020/04/05/hopital-de-nancy-tolle-apres-des-propos-du-directeur-de-l-ars-sur-des-fermetures-de-lits-7389454-10861.php)
 
-[^9]: https://www.strategie.gouv.fr/evaluation/comite-devaluation-reformes-de-fiscalite-capital
+[^9]: [https://www.strategie.gouv.fr/evaluation/comite-devaluation-reformes-de-fiscalite-capital](https://www.strategie.gouv.fr/evaluation/comite-devaluation-reformes-de-fiscalite-capital)
