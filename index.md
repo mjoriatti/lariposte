@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <a href='{{ post.url }}'>lire l'article...</a>
+  <a href='/lariposte/{{ post.url }}'>lire l'article...</a>
 </div>
 
 </div>
