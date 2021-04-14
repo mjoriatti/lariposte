@@ -13,11 +13,11 @@ Plan de relance : un nouvel élan pour l’avenir ?
 
 Alors que le Projet de Loi de Finances pour 2021 est attendu pour la fin décembre, et bien qu’il s’accompagne d’un plan de relance de 100 milliards d’euros sur 2 ans, on ne compte plus le nombre d’élus de tous bords qui se sont exprimés pour en contester les différents articles à l’occasion des débats à l’Assemblée.
 
+<!--more-->
+
 Pas assez vert pour les uns, une bombe à retardement pour les autres [^1], censé préparer l’avenir d’après le gouvernement… Ce plan de relance semble agglomérer tout le spectre politique contre lui. Pourtant, un sondage [^2] pour Le Figaro et France Info indique que près de  71 % des répondants jugent que ce serait «un bon plan de relance».
 
 Au-delà des sondages, que contient le plan de relance ?
-
-<!--more-->
 
 Au total, ce sont 100 milliards d’euros qui seront mis sur la table sur les deux ans à venir, dont 40 via la Commission Européenne qui mutualise les dettes entre états européens pour la première fois. Trois priorités (écologie, compétitivité, cohésion), vingt thèmes (économie circulaire, mer, souveraineté technologique, culture, Ségur de la santé, …), soixante-huit mesures, 296 pages. Des chiffres faits pour impressionner, mais qui cachent un enjeu de répartition des richesses.
 
