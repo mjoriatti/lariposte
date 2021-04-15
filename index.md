@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <a href='{{ site.baseurl }}{{post.url}}'>lire l'article 3...</a>
+  <a href='{{ site.baseurl }}{{post.url}}'>lire l'article...</a>
 </div>
 
 </div>
