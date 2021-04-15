@@ -68,11 +68,11 @@ Reste la laïcité, à la française, pour laquelle il n'est pas nécessaire d'a
 
 Même dans l'histoire récente, aucun précédent ne serait créé en laissant la villa Bonaparte vide : la religion du pape interférant régulièrement avec nos choix républicains et laïcs : [le choix par la France de représentants](https://www.challenges.fr/politique/un-ambassadeur-gay-au-vatican-les-dessous-de-l-imbroglio_95501) n'ont pas été agréés par le Saint-Siège en 2007,2015 et 2018.
 
-Enfin, comment ne pas finir cet article par une courte parenthèse autour des repas clandestins auxquels participent des gens bien placés et présentés comme étant "nos représentants" ? Bien que dénoncés (trop rarement) dans nos journaux, ces pratiques sont révoltantes et faire charger notre jeunesse par la garde montée dans les parcs n'y changera rien, ce qu'il faut changer, Lénine l'a également décrit :
-
 ![](assets/2021-04-15-amalgames-UNEF/pauvre-riche.png)
 
 *Figure 4: Selon que vous soyez riches ou pauvres... (Source : BFM)*
+
+Enfin, comment ne pas finir cet article par une courte parenthèse autour des repas clandestins auxquels participent des gens bien placés et présentés comme étant "nos représentants" ? Bien que dénoncés (trop rarement) dans nos journaux, ces pratiques sont révoltantes et faire charger notre jeunesse par la garde montée dans les parcs n'y changera rien, ce qu'il faut changer, Lénine l'a également décrit :
 
 >"Pour conquérir la véritable légalité, pour réaliser vraiment la démocratie au profit des travailleurs, il faut préalablement enlever aux exploiteurs toutes les riches demeures publiques et privées, il faut préalablement donner des loisirs aux travailleurs, il faut que la liberté de leurs réunions soit protégée par des ouvriers armés et non point par les officiers hobereaux ou capitalistes avec des soldats à leur dévotion.
 >
