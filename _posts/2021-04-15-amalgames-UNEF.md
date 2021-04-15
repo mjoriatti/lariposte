@@ -18,11 +18,11 @@ Le prétexte de réunions non mixtes venant s'ajouter à d'autres, comme celui d
 
 En revanche, dans l'autre sens, pour [prise illégale d'intérêt](https://www.huffingtonpost.fr/entry/jacques-bompard-le-maire-dorange-condamne-a-5-ans-dineligibilite_fr_605cb4d8c5b66d30c7425607) par exemple, et compte tenu des recours offerts, pas de prison ferme. Dans cet exemple, le principal intéressé reste même en poste comme s'il ne s'était jamais rien passé, et cela dure pendant des années, malgré une condamnation à 5 ans d'inéligibilité.
 
-Bref pendant que les médias s'agittent autour d'une classe politique qui se déchirent pour définir ce qui serait en "conformité avec nos valeurs républicaines" et ce qui ne le serait pas... Voilà que tenir une réunion de parole, permettant d'échanger autour d'un sujet et de construire un raisonnement collectif permettant d'en dégager un sens qui peut être partagé plus largement, ne serait plus conforme à ces valeurs...
+Bref pendant que les médias s'agitent autour d'une classe politique qui se déchire pour définir ce qui serait en "conformité avec nos valeurs républicaines" et ce qui ne le serait pas... Voilà que tenir une réunion de parole, permettant d'échanger autour d'un sujet et de construire un raisonnement collectif permettant d'en dégager un sens qui peut être partagé plus largement, ne serait plus conforme à ces valeurs...
 
 Il est regrettable que quelques sénateurs se soient abstenus de défendre les principes d'autodétermination des peuples, de démocratie et de laïcité à l'occasion du [projet de loi confortant le respect des principes de la République et de lutte contre le séparatisme](http://www.senat.fr/espace_presse/actualites/202101/principes_de_la_republique.html) qui leur était soumis.
 
-Je vous en propose deux extraits qui intérrogent :
+Je vous en propose deux extraits qui interrogent :
 
 - "Le deuxième alinéa de l’article 9 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique est complété par les mots : « et n’ayant pas, au cours de la campagne électorale ou durant les six mois précédant son ouverture, tenu dans les lieux publics, par quelque moyen que ce soit, y compris écrit, des propos contraires aux principes de la souveraineté nationale, de la démocratie ou de la laïcité afin de soutenir les revendications d’une section du peuple fondées sur l’origine ethnique ou l’appartenance religieuse"
 
@@ -30,7 +30,7 @@ Je vous en propose deux extraits qui intérrogent :
 
 Faut-il comprendre de ces extraits que les membres de l'UNEF n'ont qu'à démissionner et s'abstenir de se présenter à des élections ? Ce serait dommageable pour la démocratie, que l'on soit en accord ou pas avec la politique défendue par l'UNEF.
 
-Demain, devrons-nous nous abstenir de revendiquer la fin de l'apartheid ? L'accès à l'eau pour les Palestiniens habitant les "territoires occupés" (de surcroit occupés illégalement au regard du droit international) ?
+Demain, devrons-nous nous abstenir de revendiquer la fin de l'apartheid ? L'accès à l'eau pour les Palestiniens habitant les "territoires occupés" (de surcroît occupés illégalement au regard du droit international) ?
 
 Est-il encore possible aujourd'hui de rappeler qu'un musulman a le droit, comme tout autre croyant de construire un lieu de culte ?
 
@@ -38,41 +38,41 @@ Quand nous proposera-t-on de dissoudre également les associations qui luttent c
 
 Et après-demain, quid des associations type "vie libre" ou de celles et ceux qui s'organisent avec des sections retraités, des sections ingénieurs et cadres ?
 
-Quelques-uns pourront peut-être un jour également proposer l'interdiction de la CFE-CGC au prétexte qu'ils s'obstinent à refuser les ouvriers et techniciens en dessous d'un certain coeffiscient ? ou d'autres syndicats pour d'autres prétextes ?
+Quelques-uns pourront peut-être un jour également proposer l'interdiction de la CFE-CGC au prétexte qu'ils s'obstinent à refuser les ouvriers et techniciens en dessous d'un certain coefficient ? ou d'autres syndicats pour d'autres prétextes ?
 
-Qu'est-il prévu pour les loges non-mixtes, la conférence des évêques, l'association des anciens combattants de l'AFN, ... ?
+Qu'est-il prévu pour les loges non-mixtes, la conférence des évêques, l'association des anciens combattants AFN, ... ?
 
 Au travers des faits d'actualité et de questions posées apparaît clairement une difficulté dans l'établissement d'une définition correspondant à ce que sont les "valeurs de la république".
 
 ![](assets/2021-04-15-amalgames-UNEF/sieyes-abbe.jpg)
 
-*Figure 2: L'abbée Sieyès (source : https://www2.assemblee-nationale.fr/)*
+*Figure 2: L’abée Sieyès (source : https://www2.assemblee-nationale.fr/)*
 
-De la question de la démocratie, Sieyes a mis brillamment en évidence l'opposition profonde qui existe entre un gouvernement représentatif et un gouvernement démocratique :
+De la question de la démocratie, Sieyès a mis brillamment en évidence l'opposition profonde qui existe entre un gouvernement représentatif et un gouvernement démocratique :
 
 >"Les citoyens qui se nomment des représentants renoncent et doivent renoncer à faire eux-mêmes la loi ; ils n’ont pas de volonté particulière à imposer. S’ils dictaient des volontés, la France ne serait plus cet État représentatif ; ce serait un État démocratique."
 
-Inutile de préciser que l'abbée Siéyès rejettait la démocratie, comme l'illustre cette autre citation :
+Inutile de préciser que l’abée Sieyès rejetait la démocratie, comme l'illustre cette autre citation :
 
 >"Le peuple, je le répète, dans un pays qui n’est pas une démocratie (et la France ne saurait l’être), le peuple ne peut parler, ne peut agir que par ses représentants.").
 
-Avec la nouverlle loi, voilà que les "propos contraires aux principes de la souveraineté nationale, de la démocratie ou de la laïcité ayant pour objet de soutenir les revendications d’une section du peuple fondées sur l’origine ethnique ou l’appartenance religieuse" n'ont plus le droit d'exister.
+Avec la nouvelle loi, voilà que les "propos contraires aux principes de la souveraineté nationale, de la démocratie ou de la laïcité ayant pour objet de soutenir les revendications d’une section du peuple fondées sur l’origine ethnique ou l’appartenance religieuse" n'ont plus le droit d'exister.
 
-Nous souhaitons par avance bon courrage à l'homme politique de demain qui souhaitera déclarer que les néo-calédonien ont bien le droit de revendiquer leur droit à l'autodétermination à l'occasion d'une prochaine consultation qui ne manquera pas d'y être organisée ! Une telle position étant en conflit avec la notion de souveraineté nationale (d'autant plus que notre nation est une et indivisible), une modification de la loi est donc inéluctable, a minima le temps que le peuple en question se détermine.
+Nous souhaitons par avance bon courage à l'homme politique de demain qui souhaitera déclarer que les néo-calédonien ont bien le droit de revendiquer leur droit à l'autodétermination à l'occasion d'une prochaine consultation qui ne manquera pas d'y être organisée ! Une telle position étant en conflit avec la notion de souveraineté nationale, d'autant plus que notre nation est une et indivisible. Une modification de la loi est donc inéluctable, a minima le temps que le peuple en question se détermine : selon l’accord de Nouméa, si un tiers des membres du Congrès demande un troisième référendum à partir du 4 avril 2021, celui-ci devra être organisé.
 
 ![](assets/2021-04-15-amalgames-UNEF/resultat-referedum-caledonie.jpg)
 
 *Figure 3: Résultat du référendum en Nouvelle-Calédonie (Source : nouvelle-calédonie.fr)*
 
-Reste la laïcité, à la française, pour laquelle il n'est pas nécessaire d'attendre après-demain pour, par exemple, pour demander le rappel de notre ambassadeur au Vatican et légiférer autour d'un retour à une position conforme à la loi de 1905, comme ce fut le cas jusqu'au début des années 20.
+Reste la laïcité, à la française, pour laquelle il n'est pas nécessaire d'attendre après-demain pour, par exemple, demander le rappel de notre ambassadeur au Vatican et légiférer autour d'un retour à une position conforme à la loi de 1905, comme ce fut le cas jusqu'au début des années 20.
 
-Même dans l'histoire récente, aucun précédent ne serait créé en laissant la villa Bonaparte vide : la religion du pape interférant régulièrement avec nos choix républicains et laïcs : [le choix par la France de représentants](https://www.challenges.fr/politique/un-ambassadeur-gay-au-vatican-les-dessous-de-l-imbroglio_95501) n'ont pas été agréés par le Saint-Siège en 2007,2015 et 2018.
+Aucun précédent ne serait créé en laissant la villa Bonaparte vide : dans l'histoire récente, la religion du pape interférant régulièrement avec nos choix républicains et laïcs : le Saint-Siège n'ayant pas agréé [le choix par la France de représentants](https://www.challenges.fr/politique/un-ambassadeur-gay-au-vatican-les-dessous-de-l-imbroglio_95501) a trois reprises en 2007,2015 et 2018.
 
 ![](assets/2021-04-15-amalgames-UNEF/pauvre-riche.png)
 
 *Figure 4: Selon que vous soyez riches ou pauvres... (Source : BFM)*
 
-Enfin, comment ne pas finir cet article par une courte parenthèse autour des repas clandestins auxquels participent des gens bien placés et présentés comme étant "nos représentants" ? Bien que dénoncés (trop rarement) dans nos journaux, ces pratiques sont révoltantes et faire charger notre jeunesse par la garde montée dans les parcs n'y changera rien, ce qu'il faut changer, Lénine l'a également décrit :
+Enfin, comment ne pas finir ce billet d'humeur par une courte parenthèse autour des repas clandestins auxquels participent des gens bien placés et présentés comme étant "nos représentants" ? Bien que dénoncés (trop rarement) dans les journaux aux mains des plus grands capitalistes de notre République, ces pratiques n'en restent pas moins révoltantes et faire charger notre jeunesse par la garde montée dans les parcs ne changera rien à ce qu'il faut changer, ce que Lénine avait déjà à son époque identifié :
 
 >"Pour conquérir la véritable légalité, pour réaliser vraiment la démocratie au profit des travailleurs, il faut préalablement enlever aux exploiteurs toutes les riches demeures publiques et privées, il faut préalablement donner des loisirs aux travailleurs, il faut que la liberté de leurs réunions soit protégée par des ouvriers armés et non point par les officiers hobereaux ou capitalistes avec des soldats à leur dévotion.
 >
