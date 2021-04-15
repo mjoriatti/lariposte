@@ -6,7 +6,9 @@ title: "Amalgames autour de réunions de membres de l'UNEF : y a-t-il une volont
 [//]: # (Author: Manuel Joriatti, PCF Nord)  
 [//]: # (Date: 15 avril 2020)
 
-![](assets/2021-04-15-amalgames-UNEF/La-Scene-Giampietrino.jpg)
+![](assets/2021-04-15-amalgames-UNEF/La-Cene-Giampietrino.jpg)
+
+*Figure 1: Repas non-mixte non-laïc et probablement non-républicain (source : La Cène de Giampietrino)*
 
 Derrière les amalgames autour d'une réunion organisée par des  membres de l'UNEF, on peut se demander s'il n'existe pas une réelle volonté de museler la parole de tout ce qui ne va pas dans le sens des volontés gouvernementales et patronales ?
 
@@ -44,6 +46,8 @@ Au travers des faits d'actualité et de questions posées apparaît clairement u
 
 ![](assets/2021-04-15-amalgames-UNEF/sieyes-abbe.jpg)
 
+*Figure 2: L'abbée Sieyès (source : https://www2.assemblee-nationale.fr/)*
+
 De la question de la démocratie, Sieyes a mis brillamment en évidence l'opposition profonde qui existe entre un gouvernement représentatif et un gouvernement démocratique :
 
 >"Les citoyens qui se nomment des représentants renoncent et doivent renoncer à faire eux-mêmes la loi ; ils n’ont pas de volonté particulière à imposer. S’ils dictaient des volontés, la France ne serait plus cet État représentatif ; ce serait un État démocratique."
@@ -58,6 +62,8 @@ Nous souhaitons par avance bon courrage à l'homme politique de demain qui souha
 
 ![](assets/2021-04-15-amalgames-UNEF/resultat-referedum-caledonie.jpg)
 
+*Figure 3: Résultat du référendum en Nouvelle-Calédonie (Source : nouvelle-calédonie.fr)*
+
 Reste la laïcité, à la française, pour laquelle il n'est pas nécessaire d'attendre après-demain pour, par exemple, pour demander le rappel de notre ambassadeur au Vatican et légiférer autour d'un retour à une position conforme à la loi de 1905, comme ce fut le cas jusqu'au début des années 20.
 
 Même dans l'histoire récente, aucun précédent ne serait créé en laissant la villa Bonaparte vide : la religion du pape interférant régulièrement avec nos choix républicains et laïcs : [le choix par la France de représentants](https://www.challenges.fr/politique/un-ambassadeur-gay-au-vatican-les-dessous-de-l-imbroglio_95501) n'ont pas été agréés par le Saint-Siège en 2007,2015 et 2018.
@@ -65,6 +71,8 @@ Même dans l'histoire récente, aucun précédent ne serait créé en laissant l
 Enfin, comment ne pas finir cet article par une courte parenthèse autour des repas clandestins auxquels participent des gens bien placés et présentés comme étant "nos représentants" ? Bien que dénoncés (trop rarement) dans nos journaux, ces pratiques sont révoltantes et faire charger notre jeunesse par la garde montée dans les parcs n'y changera rien, ce qu'il faut changer, Lénine l'a également décrit :
 
 ![](assets/2021-04-15-amalgames-UNEF/pauvre-riche.jpg)
+
+*Figure 4: Selon que vous soyez riches ou pauvres... (Source : BFM)*
 
 >"Pour conquérir la véritable légalité, pour réaliser vraiment la démocratie au profit des travailleurs, il faut préalablement enlever aux exploiteurs toutes les riches demeures publiques et privées, il faut préalablement donner des loisirs aux travailleurs, il faut que la liberté de leurs réunions soit protégée par des ouvriers armés et non point par les officiers hobereaux ou capitalistes avec des soldats à leur dévotion.
 >
