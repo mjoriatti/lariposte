@@ -2,20 +2,18 @@
 ---
 
 {% for post in site.posts %}
-<div>
 
-<div>
-<h1>{{ post.title }}</h1>
+<article class="post">
+
+<header class="post-header">
+<h1 class="post-title"><a href='{{ site.baseurl }}{{post.url}}'>{{ post.title }}</a></h1>
 <p><time>{{ post.date | date_to_string }}</time></p>
-</div>
+</header>
 
-<div>
+<section class="post-excerpt">
 {{ post.excerpt }}
-</div>
+</section>
 
-<div>
-  <a href='{{ site.baseurl }}{{post.url}}'>lire l'article...</a>
-</div>
+</article>
 
-</div>
 {% endfor %}
