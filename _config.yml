@@ -1,7 +1,9 @@
 title: "Manuel Joriatti"
-description: "Textes proposés à La Riposte"
+description: "Textes proposés à La Riposte."
 
 theme: jekyll-theme-minimal
+permalink: lariposte/:year-:month-:day-:title:output_ext
+
 plugins:
     - jekyll-sitemap
 
