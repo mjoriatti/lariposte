@@ -3,7 +3,6 @@ description: "Textes proposés à La Riposte."
 
 theme: jekyll-theme-minimal
 permalink: :year-:month-:day-:title:output_ext
-baseurl: lariposte
 
 plugins:
     - jekyll-sitemap
