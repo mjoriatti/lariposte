@@ -70,7 +70,7 @@ Même dans l'histoire récente, aucun précédent ne serait créé en laissant l
 
 Enfin, comment ne pas finir cet article par une courte parenthèse autour des repas clandestins auxquels participent des gens bien placés et présentés comme étant "nos représentants" ? Bien que dénoncés (trop rarement) dans nos journaux, ces pratiques sont révoltantes et faire charger notre jeunesse par la garde montée dans les parcs n'y changera rien, ce qu'il faut changer, Lénine l'a également décrit :
 
-![](assets/2021-04-15-amalgames-UNEF/pauvre-riche.jpg)
+![](assets/2021-04-15-amalgames-UNEF/pauvre-riche.png)
 
 *Figure 4: Selon que vous soyez riches ou pauvres... (Source : BFM)*
 
