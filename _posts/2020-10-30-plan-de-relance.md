@@ -6,9 +6,6 @@ title: "Plan de relance : un nouvel élan pour l’avenir ?"
 [//]: # (Author: Manuel Joriatti, La Riposte)  
 [//]: # (Date: 30 octobre 2020)
 
-Plan de relance : un nouvel élan pour l’avenir ?
-===
-
 ![](assets/2020-10-30-plan-de-relance/ministere-finances-bercy.png)
 
 Alors que le Projet de Loi de Finances pour 2021 est attendu pour la fin décembre, et bien qu’il s’accompagne d’un plan de relance de 100 milliards d’euros sur 2 ans, on ne compte plus le nombre d’élus de tous bords qui se sont exprimés pour en contester les différents articles à l’occasion des débats à l’Assemblée.
